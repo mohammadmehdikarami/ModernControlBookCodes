@@ -99,7 +99,7 @@ Fork this repository to contribute and propose changes or enhancements via pull 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-- Contact Information – [mjahmadee@gmail.com](mailto:mjahmadee@gmail.com)
+- Prof. Hamid D. Taghirad – [Visit Website](https://aras.kntu.ac.ir/taghirad/)
 - Project Link: [https://github.com/aras-labs/Modern_Control](https://github.com/aras-labs/Modern_Control)
 
 ![GitHub forks](https://img.shields.io/github/forks/aras-labs/Modern_Control?style=social)
