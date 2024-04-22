@@ -6,7 +6,7 @@ Welcome to the official repository for **"An Introduction to Modern Control"** b
 
 "An Introduction to Modern Control" offers a comprehensive introduction to the fundamentals of modern control systems. Written by [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/), this book is an essential resource for students and researchers in the field of control engineering.
 
-[![Book Website](https://img.shields.io/badge/Book_Website-Visit-blue?style=for-the-badge&logo=bookstack)](https://aras.kntu.ac.ir/publications/books/)
+[![Book Website](https://img.shields.io/badge/Book_Website-Visit-blue?style=for-the-badge&logo=bookstack)](https://aras.kntu.ac.ir/publications/modern-control-book/)
 
 ## Purchase the Book 🛒
 
